@@ -1,1 +1,1 @@
-![Alt text](public/asserts/ShoppingApp.png?raw=true "Title")
+![Alt text](src/asserts/ShoppingApp.png?raw=true "Title")
